@@ -1,5 +1,7 @@
 # Chart.js Polar Area Chart Tutorial
 
+> ⚠️ **Warning**: This information may be out of date, and the project is no longer actively maintained. I've updated what I can, but it's largely preserved here for posterity in case others find it useful.
+
 [Blog post](https://sliceofkeesh.com/post/custom-charts-dashboard-extensions-api)
 
 This is a simple tutorial showing how to use [Chart.js](https://www.chartjs.org/) to create a simple Polar Area Chart [dashboard extension](https://help.tableau.com/current/pro/desktop/en-us/dashboard_extensions.htm).
