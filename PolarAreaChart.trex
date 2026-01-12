@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+  <manifest manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension_manifest">
+    <dashboard-extension id="com.sliceofkeesh.polar" extension-version="1.0.0">
+      <default-locale>en_US</default-locale>
+      <name resource-id="name"/>
+      <description>Sample extension for creating a polar area chart.</description>
+      <author name="Keshia Rose" email="keshia@sliceofkeesh.com" organization="Keshia Rose" website="https://sliceofkeesh.com"/>
+      <min-api-version>1.0</min-api-version>
+      <source-location>
+        <url>https://polar-chart-extension.sliceofkeesh.com</url> 
+      </source-location>
+      <icon></icon>
+      <context-menu>
+        <configure-context-menu-item />
+      </context-menu>
+    </dashboard-extension>
+    <resources>
+      <resource id="name">
+        <text locale="en_US">Polar Area Chart</text>
+      </resource>
+    </resources>
+  </manifest>
